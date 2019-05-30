@@ -37,11 +37,6 @@
       "type" : "image",
       "title": "test image",
       "src": "assets/img/middle/1.png"
-    },
-    {
-      "type" : "image",
-      "title": "test image",
-      "src": "assets/img/middle/2.png"
     }
   ]
 }
