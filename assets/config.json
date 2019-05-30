@@ -1,0 +1,47 @@
+{
+  "name": "consensys slides",
+  "width": 1200,
+  "height": 1920,
+  "fallbackImg": "assets/img/fallback/fallback.png",
+  "defaultDuration" : 1000,
+  "slides": [
+    {
+      "type" : "frame",
+      "title": "LD4",
+      "url": "assets/frame/singlevenue-LD4.html",
+      "duration": 5000
+    },
+    {
+      "type" : "frame",
+      "title": "NY4",
+      "url": "assets/frame/singlevenue-NY4.html",
+      "duration": 1000
+    },
+    {
+      "type" : "frame",
+      "title": "TY3",
+      "url": "assets/frame/singlevenue-TY3.html"
+    },
+    {
+      "type" : "frame",
+      "title": "LMAX",
+      "url": "http://www.lmax.com/",
+      "duration" : 10000
+    },
+    {
+      "type": "frame",
+      "title" : "broken to test fallback",
+      "url": "about:blank"
+    },
+    {
+      "type" : "image",
+      "title": "test image",
+      "src": "assets/img/middle/1.png"
+    },
+    {
+      "type" : "image",
+      "title": "test image",
+      "src": "assets/img/middle/2.png"
+    }
+  ]
+}
